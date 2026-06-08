@@ -1,5 +1,16 @@
 idee:
+quizz
+qcm
+cours
+td tp corrige
+interactif
 
 ou j'en suis:
 08 06 26
 creer menu (homepage)
+creer frame l2, ses ue
+creer fonctions on click
+creer systeme de changement de frame (de pages)
+
+a faire:
+ajouter on click pour chaque ue
